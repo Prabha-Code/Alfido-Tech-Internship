@@ -1,0 +1,14 @@
+Java is a powerful object-oriented programming language that organizes code around objects rather than actions. The four main pillars of OOP are Encapsulation, Inheritance, Polymorphism, and Abstraction.
+
+Encapsulation refers to bundling data (variables) and methods (functions) that operate on the data into a single unit or class. It also involves restricting direct access to some components using access modifiers like private, protected, and public.
+
+Inheritance allows a class (called a subclass or child class) to inherit properties and behaviors from another class (called a superclass or parent class). This promotes code reusability and hierarchical classification.
+
+Polymorphism enables one interface to be used for different types of objects. It comes in two types: compile-time polymorphism (method overloading) and runtime polymorphism (method overriding). This allows flexible and dynamic method execution.
+
+Abstraction means hiding complex implementation details and showing only the essential features of an object. In Java, abstraction is achieved using abstract classes and interfaces.
+
+Java OOP also includes concepts like class, object, constructor, method, and access modifiers. A class is a blueprint for objects, while an object is an instance of a class. Constructors are special methods used to initialize new objects. Methods define behaviors, and access modifiers control the visibility of classes and their members.
+
+By using OOP, Java promotes modular, reusable, and maintainable code, making it ideal for real-world software development.
+
